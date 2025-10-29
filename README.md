@@ -4,7 +4,7 @@ Automate end-to-end YouTube video publishing from Android devices and emulators 
 
 <p align="center">
   <a href="https://Appilot.app" target="_blank">
-    <img src="Media/appilot-baner.png" alt="Appilot Banner" width="100%">
+    <img src="media/appilot-baner.png" alt="Appilot Banner" width="100%">
   </a>
 </p>
 <p align="center">
